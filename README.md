@@ -1,4 +1,4 @@
-########## 📈 By **LTX74**
+# 📈 By **LTX74**
 
 For any questions or tool problems, contact me on discord: **ltx___7401**
 
