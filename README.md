@@ -160,14 +160,14 @@ Run the script, and an interactive menu will appear. Here are the available opti
 ---
 
 ### 10. **🛒 Buy a Flipper Zero**  
-    Links to purchase a Flipper Zero:
+   Links to purchase a Flipper Zero:
     - 🏠 **Official Website** (Recommended)
     - 🛍️ **Amazon**
 
 ---
 
 ### 11. **🚪 Exit**  
-    Close the program.
+   Close the program.
 
 ---
 
