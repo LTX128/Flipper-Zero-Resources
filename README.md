@@ -1,6 +1,8 @@
+# By **LTX74**.
+
 # 🐬 Flipper Zero Resources 🛠️
 
-A command-line interface (CLI) tool to quickly access resources, tools, and communities related to the **Flipper Zero**. Developed with ❤️ by **LTX74**.
+A command-line interface tool to quickly access resources, tools, and communities related to the **Flipper Zero**.
 
 ---
 
