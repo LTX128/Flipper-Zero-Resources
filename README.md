@@ -2,6 +2,7 @@
 
 ## For any questions or tool problems, contact me on discord: **ltx___7401**
 
+
 # 🐬 Flipper Zero Resources 🛠️
 
 A command-line interface tool to quickly access resources, tools, and communities related to the **Flipper Zero**.
