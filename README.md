@@ -1,4 +1,4 @@
-# 📈 By **LTX74**
+## 📈 By **LTX74**
 
 # 🐬 Flipper Zero Resources 🛠️
 
