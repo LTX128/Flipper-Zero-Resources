@@ -167,7 +167,7 @@ Run the script, and an interactive menu will appear. Here are the available opti
 ---
 
 ### 11. **🚪 Exit**  
-   - Close the program.
+   - **Close the program**
 
 ---
 
