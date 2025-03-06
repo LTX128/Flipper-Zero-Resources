@@ -53,3 +53,11 @@ This Python script is designed for **Flipper Zero** users who want to centralize
    ```bash
    git clone https://github.com/LTX128/Flipper-Zero-Resources.git
    ```
+2.Navigate to the project folder:
+   ```bash
+   cd Flipper-Zero-Resources
+   ```
+3.Run the script:
+   ```bah
+   python Flipper_Zero_Resources.py
+   ```
