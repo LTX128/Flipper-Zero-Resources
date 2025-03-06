@@ -48,11 +48,10 @@ This Python script is designed for **Flipper Zero** users who want to centralize
 ---
 
 ## 📥 Installation
-
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/LTX128/Flipper-Zero-Resources.git
-   ```
+  ```bash
+  git clone https://github.com/LTX128/Flipper-Zero-Resources.git
+  ```
 2.Navigate to the project folder:
    ```bash
    cd Flipper-Zero-Resources
