@@ -171,6 +171,6 @@ Run the script, and an interactive menu will appear. Here are the available opti
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**: Main programming language.
+- **Python**: Main programming language.
 - **`webbrowser` Library**: To open links in the default browser.
 - **Compatibility**: Works on Windows, Linux, and macOS.
